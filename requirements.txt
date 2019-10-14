@@ -1,0 +1,4 @@
+py2app --ignore-installed
+requests
+rumps
+keyring
