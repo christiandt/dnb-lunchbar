@@ -45,7 +45,6 @@ class StatusBarApp(rumps.App):
     def prefs(self, _):
         response = PreferencePane().run()
         requirements = ['email', 'interval']
-        print(response.clicked)
         if response.clicked == 1:
             try:
                 user_configuration = json.loads(str(response.text))
