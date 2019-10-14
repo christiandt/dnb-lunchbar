@@ -9,3 +9,6 @@ gui:
 
 package:
 	python setup.py py2app
+
+sign:
+	./sign.sh
