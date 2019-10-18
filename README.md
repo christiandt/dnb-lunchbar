@@ -5,7 +5,7 @@ Statusbar application for DNB lunch balance
 
 
 ## Install
-Download the latest version from [https://github.com/christiandt/HuaweiMeter/releases](https://github.com/christiandt/HuaweiMeter/releases). 
+Download the latest version from [https://github.com/christiandt/dnb-lunchbar/releases](https://github.com/christiandt/dnb-lunchbar/releases). 
 
 Unzip and move `HuaweiMeter.app` to the Applications folder of your computer.
 
@@ -19,3 +19,6 @@ The software will read balance from the microsmycentral page, and will only real
 ![alt tag](img/password.png)
 
 Passwords will be stored in the mac keychain using the default backend.
+
+## Pull Requests and Issues
+Please sneds your PRs, I'll be happy to merge them, as previously noted this is quickly hacked together code, so things will need fixing. 
