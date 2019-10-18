@@ -21,4 +21,5 @@ The software will read balance from the microsmycentral page, and will only real
 Passwords will be stored in the mac keychain using the default backend.
 
 ## Pull Requests and Issues
-Please sneds your PRs, I'll be happy to merge them, as previously noted this is quickly hacked together code, so things will need fixing. 
+Please send your PRs, I'll be happy to merge them, as previously noted this is quickly hacked together code, so things will need fixing.
+ 
