@@ -5,6 +5,7 @@ import keyring
 class Preferences:
 
     def __init__(self):
+        keyring.core.set_keyring(keyring.core.load_keyring('keyring.backends.OS_X.Keyring'))
         self.configuration = dict()
         self.filename = "configuration.json"
         self.read_config()
