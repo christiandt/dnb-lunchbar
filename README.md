@@ -7,7 +7,7 @@ Statusbar application for DNB lunch balance
 ## Install
 Download the latest version from [https://github.com/christiandt/dnb-lunchbar/releases](https://github.com/christiandt/dnb-lunchbar/releases). 
 
-Unzip and move `HuaweiMeter.app` to the Applications folder of your computer.
+Unzip and move `LunchBar.app` to the Applications folder of your computer.
 
 
 ## Gotchas
